@@ -1,0 +1,19 @@
+《The Northwood Lair / 初音奴隶家族》VR 模组 v1.2.3
+
+适用于游戏 ver. 1.36（Unity 2018.3.12f1 Mono x64）。
+已在 PICO 4 + PICO Connect + SteamVR 上测试。
+
+功能：
+- SteamVR 立体画面与头部追踪。
+- 左右手对称的单手菜单、视角操作。
+- 可选择角色第一人称，男性和怪物视点优先排列。
+- 支持眼点微调、校准保存、退出确认和 VR 菜单尺寸控制。
+
+安装：将分享包全部解压到游戏 EXE 所在目录，连接电脑串流并启动 SteamVR，再双击 Start-VR.cmd。
+角色视角：进入三维场景后按下摇杆，指向角色并扣扳机选择；面板中可切回自由视角。
+
+无需另装 Rai Pal 或开发工具。请自行准备同版游戏，建议使用干净副本。
+特殊模型可能需要微调眼点，尚未逐一验证全部场景和设备。
+
+下载：https://github.com/Reisen333/game-mod/releases/tag/northwood-lair-vrmod-2026-10-28
+完整说明：https://github.com/Reisen333/game-mod/tree/main/mods/northwood-lair

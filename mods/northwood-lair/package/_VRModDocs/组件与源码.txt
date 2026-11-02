@@ -1,0 +1,26 @@
+﻿Northwood VR Fixes 1.2.3 — source included; GPL-3.0.
+UUVR v0.4.0 (plugin internal version 0.3.1), Mono Legacy:
+https://github.com/Raicuparta/uuvr/tree/v0.4.0
+BepInEx 5.4.23.6 x64:
+https://github.com/BepInEx/BepInEx/tree/v5.4.23.6
+Unity Doorstop 4.6.0:
+https://github.com/NeighTools/UnityDoorstop/tree/v4.6.0
+BepInExConfigManager 1.3.0:
+https://github.com/sinai-dev/BepInExConfigManager/tree/1.3.0
+UniverseLib 1.5.1:
+https://github.com/sinai-dev/UniverseLib/tree/1.5.1
+HarmonyX: https://github.com/BepInEx/HarmonyX
+Mono.Cecil: https://github.com/jbevain/cecil
+MonoMod: https://github.com/MonoMod/MonoMod
+AssetsTools.NET: https://github.com/nesrak1/AssetsTools.NET
+OpenVR: https://github.com/ValveSoftware/openvr
+OpenVR license is included beside the bundled C# bindings.
+
+UUVR / ConfigManager / UniverseLib / Doorstop upstream source archives and
+the custom plugin source are included under Sources. Other component source
+locations are linked above; their respective licenses remain applicable.
+Native VR libraries are preserved from the official UUVR Mono Legacy release;
+they retain their upstream ownership and applicable terms.
+Runtime DLLs are unchanged from the tested installation. Packaging uses a
+relative loader path and clean default config, removes XML docs and x86 payload.
+No game executable, game level data, user profile or save file is included.

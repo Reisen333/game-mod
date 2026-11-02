@@ -1,0 +1,3 @@
+# Preserve the tested package bytes, including Windows script encodings and line endings.
+package/** -text
+downloads/*.zip -text
