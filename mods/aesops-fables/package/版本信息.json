@@ -1,0 +1,11 @@
+{
+  "name": "Aesops_Fables 语音中文字幕",
+  "subtitle_version": "1.0",
+  "release_date": "2026-11-03",
+  "supported_game_version": "Ver.product-1.23",
+  "supported_original_asar_sha256": "aa5854beba136bf04275793ad2d4654dc5eff1e166f7b9748a63ffd67b8c9fd4",
+  "subtitle_cues": 574,
+  "media_processed": 396,
+  "pending_media": 3,
+  "runtime": "Windows PowerShell 5.1; no Python required"
+}
